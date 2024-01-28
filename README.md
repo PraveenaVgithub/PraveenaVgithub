@@ -1,5 +1,5 @@
 <h1> Hi there, I'm PRAVEENA 👋 </h1>
-<p align="center"><img src="./123.jpg" width="400" height="400" ></p>
+<p align="center"><img src="./Quotefancy-24625-3840x2160.jpg"  ></p>
 
 
 
