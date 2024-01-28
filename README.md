@@ -1,3 +1,10 @@
+### Hi there, I'm Arjyo Chakraborty 👋 
+<p align="center"><img src=""></p>
+
+
+
+<br>
+<br>
 - 👋 I am honing my dev and dsa skills.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning to master Frontend 
